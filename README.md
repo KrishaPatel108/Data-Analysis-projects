@@ -5,7 +5,7 @@
 **Goal:** Analyze product prices and categories  
 **Skills:** Data loading, filtering, grouping, basic insights  
 **Tools:** Python, pandas  
-[View Project Folder ➡️](./DMart-Analysis)
+[View Project Folder ➡️](./)
 
 ## About the Author  
 Hi, I’m Krisha — a curious learner, aspiring AI/ML engineer, and a believer in the magic of consistent effort. This repo is a reflection of my journey, one mini project at a time.
