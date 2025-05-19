@@ -5,10 +5,10 @@
 **Goal:** Analyze product prices and categories  
 **Skills:** Data loading, filtering, grouping, basic insights  
 **Tools:** Python, pandas  
-[View Project Folder ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/Dmartanalysis.py)
+[View Project ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/Dmartanalysis.py)
 
 ## About the Author  
-Hi, I’m Krisha — a curious learner, aspiring AI/ML engineer, and a believer in the magic of consistent effort. This repo is a reflection of my journey, one mini project at a time.
+Hi, I’m Krisha — a curious learner, aspiring Data Analyst, and a believer in the magic of consistent effort. This repo is a reflection of my journey, one mini project at a time.
 
 
 ## 🌟 Coming Soon  
