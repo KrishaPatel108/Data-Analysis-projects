@@ -13,6 +13,11 @@
 **Tools:** Python, pandas, seaborn, matplotlib  
 [View Project ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/SupermarketSalesAnalysis.py)
 
+### 3. 👩‍💼 Income Classification - Visual EDA  
+**Goal:** Explore income trends in the Adult Income dataset based on age, education, gender, marital status, and weekly work hours  
+**Skills:** Data cleaning, binning, binary classification, data visualization, observational thinking  
+**Tools:** Python, pandas, seaborn, matplotlib  
+[View Project ➡️]()
 
 
 
