@@ -19,5 +19,20 @@
 **Tools:** Python, pandas, seaborn, matplotlib  
 [View Project ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/incomeanalysis.py)
 
+### 4. 📱 Social Media Performance Analysis - Dashboard & Insights
 
+**Goal:** Analyze social media post performance across multiple platforms using separate datasets to uncover trends in engagement, optimal posting times, and content impact. Visualize insights through an interactive Power BI dashboard for actionable content strategy.
+
+**Skills:**
+- Data cleaning and preprocessing of platform-specific datasets individually
+- Exploratory Data Analysis (EDA) on engagement metrics, post timing, and content type
+- Calculation of engagement rates and identification of high-performing posts
+- Data visualization using Python (pandas, matplotlib, seaborn)
+- Interactive dashboard creation with Power BI
+
+**Tools:** Python, pandas, matplotlib, seaborn, Power BI
+
+**Links:**
+- [View Python Analysis Code ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/social_media_analysis.py)
+- [View Power BI Dashboard ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/commit/4d3eb85044084e0e7c30cd967d1b7931ce2704fb)
 
