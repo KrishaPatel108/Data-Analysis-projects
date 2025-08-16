@@ -36,3 +36,18 @@
 - [View Python Analysis Code ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/social_media_analysis.py)
 - [View Power BI Dashboard ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/commit/4d3eb85044084e0e7c30cd967d1b7931ce2704fb)
 
+### 5. 🌐 Competitor Digital Footprint Tracking - SEO & Social Gap Analysis  
+
+**Goal:** Identify competitors’ high-performing keywords, traffic sources, and social media strategies to uncover gaps and opportunities for AgencyX’s digital growth.  
+
+**Skills:**  
+- Data simulation and dummy dataset creation for SEO and social metrics  
+- SQL queries for competitor comparison, traffic gap detection, and keyword analysis  
+- Comparative analysis of posting frequency vs. engagement rates across platforms  
+- Keyword gap identification for high-potential targeting  
+- Strategy recommendation based on data-driven insights  
+
+**Tools:** Python, pandas, MySQL, Excel, SQL queries  
+
+[View Project ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/Competitor%20Digital%20Footprint%20Tracking)  
+
