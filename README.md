@@ -49,6 +49,6 @@
 
 **Tools:** Python, pandas, MySQL, Excel, SQL queries  
 
-[View SQL code ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/Competitor%20Digital%20Footprint%20Tracking)  
+[View SQL code ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/CDf.sql)  
 
 [View Python code for dummy dataset ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/datasetcdf.py)
