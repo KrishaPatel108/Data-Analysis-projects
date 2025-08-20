@@ -52,3 +52,17 @@
 [View SQL code ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/CDf.sql)  
 
 [View Python code for dummy dataset ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/datasetcdf.py)
+
+### 6. 📊 Website Analytics & Conversion Funnel Analysis  
+**Goal:** Analyze user behavior across pages, identify drop-off points, and recommend CRO strategies to improve conversions.  
+
+**Skills:**  
+- Data cleaning and visualization (bounce rates, exits, funnel drop-offs)  
+- Traffic source breakdown analysis (organic, paid, social, referral)  
+- Conversion funnel mapping and interpretation  
+- CRO insights generation using AI tools  
+
+**Tools:** Python, pandas, Matplotlib, Google Analytics  
+
+[View Python code ➡️ ]() 
+
