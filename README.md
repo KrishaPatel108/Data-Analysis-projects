@@ -62,7 +62,7 @@
 - Conversion funnel mapping and interpretation  
 - CRO insights generation using AI tools  
 
-**Tools:** Python, pandas, Matplotlib, Google Analytics  
+**Tools:** Python, pandas, Matplotlib
 
 [View Python code ➡️ ](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/webanalysis.py) 
 
