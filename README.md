@@ -11,10 +11,9 @@
 - Predictive insights for campaign optimization  
 
 **Tools:** Python, Pandas, Scikit-learn  
+[View Python code ➡️ ](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/adcode.py)
 
-🔗 [View Python code ➡️ ](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/adcode.py)
 ---
-
 ### 2. 📊 Website Analytics & Conversion Funnel Analysis  
 **Goal:** Analyze user behavior across pages, identify drop-off points, and recommend CRO strategies to improve conversions.  
 
