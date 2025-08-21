@@ -12,12 +12,7 @@
 
 **Tools:** Python, Pandas, Scikit-learn  
 
-🔗 [View Python code ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/adcode.py)
----
-
-
-🔗 [View Project ➡️]()
-
+🔗 [View Python code ➡️ ](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/adcode.py)
 ---
 
 ### 2. 📊 Website Analytics & Conversion Funnel Analysis  
