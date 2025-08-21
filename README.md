@@ -12,7 +12,7 @@
 
 **Tools:** Python, Pandas, Scikit-learn  
 
-🔗 [View Python code ➡️](
+🔗 [View Python code ➡️](https://github.com/KrishaPatel108/Data-Analysis-projects/blob/main/adcode.py)
 ---
 
 
