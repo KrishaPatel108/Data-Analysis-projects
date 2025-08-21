@@ -2,14 +2,19 @@
 
 ## 📁 Projects Included  
 ### 1. 📢 Ad Performance Predictor  
-**Goal:** Predict CTR (Click-Through Rate) & CVR (Conversion Rate) for upcoming ad creatives using past campaign data.  
+**Goal:** Predict CTR (Click-Through Rate) & CVR (Conversion Rate) for upcoming ad creatives using historical campaign data.  
 
-**Skills:** 
--Data preprocessing
--feature engineering
--machine learning (Linear Regression, Random Forest)  
+**Skills:**  
+- Data preprocessing and feature encoding  
+- Regression & classification modeling (Linear Regression, Random Forest)  
+- Model evaluation and performance comparison  
+- Predictive insights for campaign optimization  
 
 **Tools:** Python, Pandas, Scikit-learn  
+
+🔗 [View Python code ➡️](
+---
+
 
 🔗 [View Project ➡️]()
 
