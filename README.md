@@ -1,8 +1,21 @@
 # Data-Analysis-projects  
 
 ## 📁 Projects Included  
+### 1. 📢 Ad Performance Predictor  
+**Goal:** Predict CTR (Click-Through Rate) & CVR (Conversion Rate) for upcoming ad creatives using past campaign data.  
 
-### 1. 📊 Website Analytics & Conversion Funnel Analysis  
+**Skills:** 
+-Data preprocessing
+-feature engineering
+-machine learning (Linear Regression, Random Forest)  
+
+**Tools:** Python, Pandas, Scikit-learn  
+
+🔗 [View Project ➡️]()
+
+---
+
+### 2. 📊 Website Analytics & Conversion Funnel Analysis  
 **Goal:** Analyze user behavior across pages, identify drop-off points, and recommend CRO strategies to improve conversions.  
 
 **Skills:**  
@@ -17,7 +30,7 @@
 
 ---
 
-### 2. 🌐 Competitor Digital Footprint Tracking - SEO & Social Gap Analysis  
+### 3. 🌐 Competitor Digital Footprint Tracking - SEO & Social Gap Analysis  
 **Goal:** Identify competitors’ high-performing keywords, traffic sources, and social media strategies to uncover gaps and opportunities for AgencyX’s digital growth.  
 
 **Skills:**  
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 📱 Social Media Performance Analysis - Dashboard & Insights  
+### 4. 📱 Social Media Performance Analysis - Dashboard & Insights  
 **Goal:** Analyze social media post performance across multiple platforms using separate datasets to uncover trends in engagement, optimal posting times, and content impact. Visualize insights through an interactive Power BI dashboard for actionable content strategy.  
 
 **Skills:**  
@@ -52,7 +65,7 @@
 
 ---
 
-### 4. 👩‍💼 Income Classification - Visual EDA  
+### 5. 👩‍💼 Income Classification - Visual EDA  
 **Goal:** Explore income trends in the Adult Income dataset based on age, education, gender, marital status, and weekly work hours.  
 
 **Skills:** Data cleaning, binning, binary classification, data visualization, observational thinking  
@@ -63,7 +76,7 @@
 
 ---
 
-### 5. 🛍️ Supermarket Sales - Visual EDA  
+### 6. 🛍️ Supermarket Sales - Visual EDA  
 **Goal:** Perform a visual exploratory data analysis on supermarket sales to identify trends by product line, city, and gender.  
 
 **Skills:** Data cleaning, grouping, visualization, interpretation of business insights  
@@ -74,7 +87,7 @@
 
 ---
 
-### 6. 🛒 DMart Dataset - Mini Analysis  
+### 7. 🛒 DMart Dataset - Mini Analysis  
 **Goal:** Analyze product prices and categories.  
 
 **Skills:** Data loading, filtering, grouping, basic insights  
